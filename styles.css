@@ -1,0 +1,5 @@
+.my-component {
+    p {
+        @apply text-white dark:bg-black;
+    }
+}
